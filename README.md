@@ -5,4 +5,4 @@ this is a demo repo.
 Shradhha Khapra
 
 # Student
-Pammy Banerjee
+Pammy Banerjee.
