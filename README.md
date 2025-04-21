@@ -2,7 +2,7 @@
 this is a demo repo.
 
 # Teacher
-Shradhha Khapra
+Shradhha Khapra.
 
 # Student
 Pammy Banerjee.
